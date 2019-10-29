@@ -1,0 +1,9 @@
+.radio-buttons{
+    display: inline-block;
+    height: 100px;
+    width: 70px;
+}
+.wraper{
+    display: flex;
+    justify-content: space-evenly;
+}
